@@ -1,25 +1,8 @@
-# Pixel Transposed Convolutional Networks
-
-Created by [Hongyang Gao](http://people.tamu.edu/~hongyang.gao/), [Hao Yuan](http://www.eecs.wsu.edu/~hyuan2/), [Zhengyang Wang](http://people.tamu.edu/~zhengyang.wang/) and [Shuiwang Ji](http://people.tamu.edu/~sji/) at Texas A&M University.
-
 ## Introduction
 
-Pixel transposed convolutional layer (PixelTCL) is a more effective way to perform up-sampling operations than transposed convolutional layer.
+An implementation of the Pixel Deconvolutional Networks paper created as part of NNFL course.
 
 Detailed information about PixelTCL is provided in [arXiv tech report] (https://arxiv.org/abs/1705.06820).
-
-## Citation
-
-If using this code, please cite our paper.
-
-```
-@article{gao2017pixel,
-  title={Pixel Transposed Convolutional Networks},
-  author={Hongyang Gao and Hao Yuan and Zhengyang Wang and Shuiwang Ji},
-  journal={arXiv preprint arXiv:1705.06820},
-  year={2017}
-}
-```
 
 ## Results
 
